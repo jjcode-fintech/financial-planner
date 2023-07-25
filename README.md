@@ -1,5 +1,7 @@
 # financial-planner
 
+![image financial-planner](./Images/financial-planner.png)
+
 # Overview
 This project is broken out in two parts. The analysis stimulates a personal finance planner for a crypto and stock portfolio .
 
